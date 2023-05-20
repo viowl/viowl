@@ -3,7 +3,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"> I am studying web development, i am from Ukrain 🇺🇦</h3>
 
-<img src="https://www.codewars.com/users/viowl/badges/small" align="center">
+<img align="center" src="https://www.codewars.com/users/viowl/badges/small" >
 <!--
 **viowl/viowl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
