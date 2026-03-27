@@ -1,25 +1,28 @@
 <h1 align="center">Hi, I'm Vitalii 👋</h1>
-<h3 align="center">Frontend learner from Ukraine 🇺🇦</h3>
+<h3 align="center">AI Automation Builder • OCR Workflows • Business Systems</h3>
 
 <p align="center">
-  Building clean layouts, learning web development, and improving step by step.
+  I design practical AI-powered workflows for business:
+  document processing, OCR pipelines, integrations, and automation systems.
 </p>
 
 ---
 
-### 🚀 About me
-- 🌱 I’m currently learning **HTML, CSS, JavaScript**
-- 💻 I build **landing pages and markup projects**
-- 🎯 My goal is to become a strong **frontend developer**
+### ⚡ Focus
+- AI workflow automation
+- OCR and document processing
+- Business process optimization
+- API integrations and system design
 
-### 🛠 Tech Stack
-HTML • CSS • JavaScript • Git • GitHub • VS Code
+### 🧰 Stack
+n8n • OpenAI • Gemini • Docker • PostgreSQL • Supabase • Redis • JavaScript • Python • Telegram • Google Drive
 
-### 📌 Featured Projects
-- Landing page project
-- Markup homework best work
-- Responsive layout practice
+### 🚀 Projects
+- OCR pipeline for structured document extraction
+- AI workflow for Excel/Sheets automation
+- Telegram bot for document processing
+- Business process automations with n8n
 
-### 📫 Contact
+### 📫 Connect
+- GitHub: ...
 - Telegram: ...
-- Email: ...
