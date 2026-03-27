@@ -1,20 +1,25 @@
+<h1 align="center">Hi, I'm Vitalii 👋</h1>
+<h3 align="center">Frontend learner from Ukraine 🇺🇦</h3>
 
-<h1 align="center">Hi there, I'm Vitalii 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"> I am studying web development, i am from Ukrain 🇺🇦</h3>
+<p align="center">
+  Building clean layouts, learning web development, and improving step by step.
+</p>
 
+---
 
-<!--
-**viowl/viowl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About me
+- 🌱 I’m currently learning **HTML, CSS, JavaScript**
+- 💻 I build **landing pages and markup projects**
+- 🎯 My goal is to become a strong **frontend developer**
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+HTML • CSS • JavaScript • Git • GitHub • VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Projects
+- Landing page project
+- Markup homework best work
+- Responsive layout practice
+
+### 📫 Contact
+- Telegram: ...
+- Email: ...
